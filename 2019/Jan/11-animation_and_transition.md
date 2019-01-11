@@ -5,20 +5,23 @@
     （https://codepen.io/bee0060/project/editor/Ddegkq#）
 2. 开始animation介绍
     2.1 最基本属性:
+        ```
         animation-name
         animation-duration
         @keyframes
+        ```
         2.1.1 写点代码展示
         简单移动或放大缩小
     2.2 其他属性, delay, duration, count, 方向等等
         (https://www.cnblogs.com/bee0060/p/5010934.html)
+        ```
          - animation-iteration-count
          - animation-delay
          - animation-direction
          - animation-timing-function
-           
          - animation-fill-mode
          - animation-play-state
+         ```
         2.2.1 写代码展示，结合这些属性
     2.3 keyframe 中节点的几种写法， from/to, 百分比
         2.3.1 修改之前的代码，尝试不同keyframe值得结果

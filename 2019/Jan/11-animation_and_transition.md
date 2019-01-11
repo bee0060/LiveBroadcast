@@ -15,7 +15,7 @@
         2.1.1 写点代码展示: 简单移动或放大缩小
         
     2.2 其他属性, delay, duration, count, 方向等等
-        (https://www.cnblogs.com/bee0060/p/5010934.html)
+        https://www.cnblogs.com/bee0060/p/5010934.html
         
          - animation-iteration-count
          - animation-delay
@@ -32,7 +32,7 @@
         
     2.4 速率属性， cubic-bezier 函数
     
-        - (http://cubic-bezier.com)
+        - http://cubic-bezier.com
         
         2.4.1 修改之前代码，展示不同结果
         

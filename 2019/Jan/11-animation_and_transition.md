@@ -44,7 +44,7 @@
     
     3.2 用transition改写上述css让hover时才出现动画
     
-4. 下期预告，讲transition。
+4. 有必要的话可以下次准备下transition。
 
 
 
